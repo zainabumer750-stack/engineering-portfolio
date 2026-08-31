@@ -22,3 +22,9 @@ This repository contains some of my university projects and technical work.
 ## Contact
 
 Email: zainabumer750@gmail.com
+
+## About this Portfolio
+
+## About This Portfolio
+
+This repository contains my engineering projects and documents my learning journey with Git and GitHub.
