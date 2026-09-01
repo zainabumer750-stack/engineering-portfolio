@@ -40,3 +40,14 @@ I plan to continue adding more engineering projects and improving the documentat
 - `project-03-touch-sensor` — Touch sensor project
 - `git-learning-log.md` — Git learning notes and conflict resolution
 - `week-01-answers.md` — Week 1 practice question answers
+
+## Projects Overview
+
+### Solar Tracking System
+A project focused on tracking sunlight to improve solar panel positioning.
+
+### Traffic Light Control
+A project demonstrating the control and sequencing of traffic lights.
+
+### Touch Sensor
+A project demonstrating touch-based input and sensor operation.
