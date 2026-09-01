@@ -29,3 +29,8 @@ One mistake I made was typing a Git command incorrectly, which caused Git to sho
 
 I checked the error message, corrected the command, and ran it again successfully. This taught me to read Git's messages instead of panicking when something goes wrong.
 i also accidently made a folder with wrong crdentials , afterwards i learned how to delete it and make a new one instead of starting from start.
+
+
+## Git Workflow I Now Understand
+
+My basic Git workflow is to check the repository status, stage the changes I want to save, commit them with a meaningful message, and push the commit to GitHub. I also understand that branches can be used to make changes separately and then merged into the main branch.
