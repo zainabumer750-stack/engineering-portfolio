@@ -31,3 +31,12 @@ This repository contains my engineering projects and documents my learning journ
 
 ## Future improvements
 I plan to continue adding more engineering projects and improving the documentation as I learn new tools and technologies.
+
+
+## Repository Structure
+
+- `project-01-solar-tracking` — Solar tracking system project
+- `project-02-traffic-light` — Traffic light control project
+- `project-03-touch-sensor` — Touch sensor project
+- `git-learning-log.md` — Git learning notes and conflict resolution
+- `week-01-answers.md` — Week 1 practice question answers
